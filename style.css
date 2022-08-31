@@ -1,0 +1,10 @@
+.top-bar h2{
+    color: #f4b8c7;
+    font-weight: 500;
+}
+.top-bar a{
+    color: gray;
+}
+.top-bara:hover{
+    color: aqua;
+}
