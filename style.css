@@ -1,5 +1,5 @@
 .top-bar h2{
-    color: #f4b8c7;
+    color: #350574;
     font-weight: 500;
 }
 .top-bar a{
@@ -8,3 +8,13 @@
 .top-bara:hover{
     color: aqua;
 }
+/*top bar styling */
+/*slider images*/
+   .main-slider img{
+      height:70vh ;
+   }
+   .main-slider .carousel-caption{
+    background: rgb(53,5,116);
+background: linear-gradient(90deg, rgba(53,5,116,0.773546918767507) 0%, rgba(53,5,116,1) 50%, rgba(53,5,116,0.5242471988795518) 100%);
+   }
+/*slider images*/
