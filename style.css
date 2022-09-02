@@ -1,20 +1,37 @@
-.top-bar h2{
-    color: #350574;
-    font-weight: 500;
+/* cfbaf0 */
+/* top bar stylings */
+.top-bar h3{
+    color: #90e0ef;
+    font-weight: 300;
 }
 .top-bar a{
-    color: gray;
+    color: #a49f96;
 }
-.top-bara:hover{
-    color: aqua;
+.top-bar a:hover{
+    color: #90e0ef;
 }
-/*top bar styling */
-/*slider images*/
-   .main-slider img{
-      height:70vh ;
-   }
-   .main-slider .carousel-caption{
-    background: rgb(53,5,116);
-background: linear-gradient(90deg, rgba(53,5,116,0.773546918767507) 0%, rgba(53,5,116,1) 50%, rgba(53,5,116,0.5242471988795518) 100%);
-   }
-/*slider images*/
+
+/* top bar stylings */
+
+/* slider images */
+.main-slider img{
+    height: 70vh;
+    
+}
+.main-slider .carousel-caption{
+    background: rgb(144,224,239);
+    background: linear-gradient(90deg, rgba(144,224,239,1) 0%, rgba(77,129,139,0.9416141456582633) 37%, rgba(144,224,239,0.76234243697479) 50%, rgba(61,113,122,0.8575805322128851) 62%, rgba(144,224,239,1) 100%);  
+}
+/* slider images */
+/*Program section stylings*/
+.program img{
+    height:300px;
+    opacity:.4;
+}
+.program .card:hover img{
+    opacity:1 ;
+}
+.program .card:hover .card-body{
+    background-color: darkgreen;
+}
+/*Program section stylings*/
